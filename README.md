@@ -58,7 +58,7 @@ apt install git
 
 Download and extract the module or clone/pull it using [Git](https://git-scm.com/downloads):
 ```bash
-git clone https://github.com/Kyou-Izumi/advanced-discord-owo-tool-farm.git
+git clone https://github.com/kuronight29/discord-owo-selfbot
 ```
 
 <<<<<<< HEAD
